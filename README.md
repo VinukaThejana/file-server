@@ -16,7 +16,7 @@ File Server is a small and lightweight Go application that allows you to share a
 To use the File Server, make sure you have Go installed on your system. Then, follow these steps:
 
 ```
-go install https://github.com/VinukaThejana/file-server@latest
+go install github.com/VinukaThejana/file-server@latest
 ```
 
 ## Usage
